@@ -1,0 +1,8 @@
+{
+  "start": "Botga Xush kelibsiz!",
+  "buttons": {
+    "share_contact": "☎\uFE0F Tel nomer ulashish",
+    "share_location": "\uD83D\uDCCD Manzilimni ulashish"
+  },
+  "select_lang": "Siz o'zbek tilini tanladingiz"
+}

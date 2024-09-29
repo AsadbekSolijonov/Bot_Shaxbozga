@@ -1,0 +1,8 @@
+{
+  "start": "Welcome to the bot!",
+  "buttons": {
+    "share_contact": "☎\uFE0F Share Contact",
+    "share_location": "\uD83D\uDCCD Share Location"
+  },
+  "select_lang": "You selected English"
+}
